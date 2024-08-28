@@ -1,5 +1,4 @@
-## Professional Portfolio - Data Analytics
+## Maria Dominguez Alvarenga - Data Analytics Portfolio
 
-Through the MSc in Data Analytics I was possible to learn different techniques such as Data Visualization, Data Cleaning which I did apply througout the Master. 
+I recently completed my MSc in Data Analyticis. I have prepared this porfotolio Through the MSc in Data Analytics I was possible to learn different techniques such as Data Visualization, Data Cleaning which I did apply througout the Master. 
 
-Capstone Project - Data Centres Electricity Meter Readings Ireland.ipynb
